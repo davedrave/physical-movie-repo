@@ -103,11 +103,11 @@ Movies:
   year: 1988
   format: 4K
   type: Movie
-  - title: Top Gun
+- title: Top Gun
   year: 1986
   format: 4K
   type: Movie
-  - title: "Top Gun: Maverick"
+- title: "Top Gun: Maverick"
   year: 2022
   format: 4K
   type: Movie
