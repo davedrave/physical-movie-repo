@@ -183,6 +183,70 @@ Movies:
   year: 2003
   format: 4K
   type: Movie
+- title: The Fifth Element
+  year: 1997
+  format: 4K
+  type: Movie
+- title: Interstellar
+  year: 2014
+  format: 4K
+  type: Movie
+- title: "Terminator 2: Judgement Day" 
+  year: 1991
+  format: 4K
+  type: Movie
+- title: The Blues Brothers
+  year: 1980
+  format: 4K
+  type: Movie
+- title: Dunkirk
+  year: 2017
+  format: 4K
+  type: Movie
+- title: Jurassic Park
+  year: 1993
+  format: 4K
+  type: Movie
+- title: Hook
+  year: 1991
+  format: 4K
+  type: Movie
+- title: The Big Lebowski
+  year: 1998
+  format: 4K
+  type: Movie
+- title: The Shining
+  year: 1980
+  format: 4K
+  type: Movie
+- title: Wall-E
+  year: 2008
+  format: 4K
+  type: Movie
+- title: "Terminator: Genesys"
+  year: 2015
+  format: 4K
+  type: Movie
+- title: Terminator Salvation
+  year: 2009
+  format: 4K
+  type: Movie
+- title: Saving Private Ryan
+  year: 1998
+  format: 4K
+  type: Movie
+- title: Apollo 11
+  year: 2019
+  format: 4K
+  type: Movie
+- title: Gremlins
+  year: 1984
+  format: 4K
+  type: Movie
+- title: Independence Day
+  year: 1996
+  format: 4K
+  type: Movie
 Shows:
 - title: "Cosmos: A Spacetime Odyssey"
   season: 1
