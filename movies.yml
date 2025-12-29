@@ -61,10 +61,12 @@ Movies:
   type: Movie
 Shows:
 - title: "Cosmos: A Spacetime Odyssey"
+  season: 1
   year: 2014
   format: Blu-ray
   type: Show
 - title: Mad Men
-  year: 2014
+  season: 2
+  year: 2007
   format: Blu-ray
   type: Show
