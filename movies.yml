@@ -91,6 +91,98 @@ Movies:
   year: 2021
   format: 4K
   type: Movie
+- title: E.T. the Extra-Terrestrial
+  year: 1982
+  format: 4K
+  type: Movie
+- title: Prometheus
+  year: 2012
+  format: 4K
+  type: Movie
+- title: Who Framed Roger Rabbit
+  year: 1988
+  format: 4K
+  type: Movie
+  - title: Top Gun
+  year: 1986
+  format: 4K
+  type: Movie
+  - title: "Top Gun: Maverick"
+  year: 2022
+  format: 4K
+  type: Movie
+- title: "Mad Max: Fury Road"
+  year: 2015
+  format: 4K
+  type: Movie
+- title: Adams Family Values
+  year: 1993
+  format: 4K
+  type: Movie
+- title: The Prestige
+  year: 2006
+  format: 4K
+  type: Movie
+- title: Dune
+  year: 2021
+  format: 4K
+  type: Movie
+- title: "Blade Runner: The Final Cut"
+  year: 1982
+  format: 4K
+  type: Movie
+- title: "Leon: The Professional"
+  year: 1994
+  format: 4K
+  type: Movie
+- title: The Lost Boys
+  year: 1987
+  format: 4K
+  type: Movie
+- title: Back to the Future
+  year: 1985
+  format: 4K
+  type: Movie
+- title: Back to the Future Part II
+  year: 1989
+  format: 4K
+  type: Movie
+- title: Back to the Future Part III
+  year: 1990
+  format: 4K
+  type: Movie
+- title: Beetlejuice
+  year: 1988
+  format: 4K
+  type: Movie
+- title: Edge of Tomorrow
+  year: 2014
+  format: 4K
+  type: Movie
+- title: Heat
+  year: 1995
+  format: 4K
+  type: Movie
+- title: Jumanji
+  year: 1995
+  format: 4K
+  type: Movie
+- title: Tenet
+  year: 2020
+  format: 4K
+  type: Movie
+- title: "The Lord of the Rings: The Fellowship of the Ring"
+  year: 2001
+  format: 4K
+  type: Movie
+- title: "The Lord of the Rings: The Two Towers"
+  year: 2002
+  format: 4K
+  type: Movie
+- title: "The Lord of the Rings: The Return of the King"
+  year: 2003
+  format: 4K
+  type: Movie
 Shows:
 - title: "Cosmos: A Spacetime Odyssey"
   season: 1
