@@ -1,6 +1,70 @@
+Movies:
 - title: The Shawshank Redemption
   year: 1994
   format: Blu-ray
+  type: Movie
 - title: The Terminator
   year: 1984
   format: 4K
+  type: Movie
+- title: My Cousin Vinny
+  year: 1992
+  format: Blu-Ray
+  type: Movie
+- title: D'Collection!
+  year: 2005
+  format: DVD
+  type: Movie
+- title: Trading Places
+  year: 1983
+  format: Blu-ray
+  type: Movie
+- title: It
+  year: 2017
+  format: 4K
+  type: Movie
+- title: It Chapter Two
+  year: 2019
+  format: 4K
+  type: Movie
+- title: "Harry Potter and the Sorcerer's Stone"
+  year: 2001
+  format: Blu-ray
+  type: Movie
+- title: Harry Potter and the Chamber of Secrets
+  year: 2002
+  format: Blu-ray
+  type: Movie
+- title: Harry Potter and the Prisoner of Azkaban
+  year: 2004
+  format: Blu-ray
+  type: Movie
+- title: Harry Potter and the Goblet of Fire
+  year: 2005
+  format: Blu-ray
+  type: Movie
+- title: Harry Potter and the Order of the Phoenix
+  year: 2007
+  format: Blu-ray
+  type: Movie
+- title: Harry Potter and the Half-Blood Prince
+  year: 2009
+  format: Blu-ray
+  type: Movie
+- title: "Harry Potter and the Deathly Hallows: Part 1"
+  year: 2010
+  format: Blu-ray
+  type: Movie
+- title: "Harry Potter and the Deathly Hallows: Part 2"
+  year: 2011
+  format: Blu-ray
+  type: Movie
+Shows:
+- title: "Cosmos: A Spacetime Odyssey"
+  year: 2014
+  format: Blu-ray
+  type: Show
+- title: Mad Men
+  year: 2014
+  format: Blu-ray
+  type: Show
