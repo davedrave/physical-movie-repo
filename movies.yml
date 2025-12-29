@@ -59,6 +59,38 @@ Movies:
   year: 2011
   format: Blu-ray
   type: Movie
+- title: Dredd
+  year: 2012
+  format: 4K
+  type: Movie
+- title: Inception
+  year: 2010
+  format: 4K
+  type: Movie
+- title: The Shawshank Redemption
+  year: 1994
+  format: 4K
+  type: Movie
+- title: Waterworld
+  year: 1995
+  format: 4K
+  type: Movie
+- title: Last Action Hero
+  year: 1993
+  format: 4K
+  type: Movie
+- title: Poltergeist
+  year: 1982
+  format: 4K
+  type: Movie
+- title: The Green Mile
+  year: 1999
+  format: 4K
+  type: Movie
+- title: Encanto
+  year: 2021
+  format: 4K
+  type: Movie
 Shows:
 - title: "Cosmos: A Spacetime Odyssey"
   season: 1
