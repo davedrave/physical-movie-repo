@@ -9,7 +9,7 @@ Movies:
   type: Movie
 - title: My Cousin Vinny
   year: 1992
-  format: Blu-Ray
+  format: Blu-ray
   type: Movie
 - title: D'Collection!
   year: 2005
@@ -271,6 +271,30 @@ Movies:
   year: 1984
   format: 4K
   type: Movie
+- title: Rocky
+  year: 1976
+  format: Blu-ray
+  type: Movie
+- title: Rocky II
+  year: 1979
+  format: Blu-rayseason: Special
+  type: Movie
+- title: Rocky III
+  year: 1982
+  format: Blu-ray
+  type: Movie
+- title: Rocky IV
+  year: 1985
+  format: Blu-ray
+  type: Movie
+- title: Rocky V
+  year: 1990
+  format: Blu-ray
+  type: Movie
+- title: Rocky Balboa
+  year: 2006
+  format: Blu-ray
+  type: Movie
 Shows:
 - title: "Cosmos: A Spacetime Odyssey"
   season: 1
@@ -330,5 +354,402 @@ Shows:
 - title: "The Royle Family: The Golden Egg Cup"
   season: Special
   year: 2009
+  format: DVD
+  type: Show
+- title: Keeping Up Appearances
+  season: 1
+  year: 1990
+  format: DVD
+  type: Show
+- title: Keeping Up Appearances
+  season: 2
+  year: 1991
+  format: DVD
+  type: Show
+- title: Keeping Up Appearances
+  season: 3Movies:
+- title: The Shawshank Redemption
+  year: 1994
+  format: Blu-ray
+  type: Movie
+- title: The Terminator
+  year: 1984
+  format: 4K
+  type: Movie
+- title: My Cousin Vinny
+  year: 1992
+  format: Blu-ray
+  type: Movie
+- title: D'Collection!
+  year: 2005
+  format: DVD
+  type: Movie
+- title: Trading Places
+  year: 1983
+  format: Blu-ray
+  type: Movie
+- title: It
+  year: 2017
+  format: 4K
+  type: Movie
+- title: It Chapter Two
+  year: 2019
+  format: 4K
+  type: Movie
+- title: "Harry Potter and the Sorcerer's Stone"
+  year: 2001
+  format: Blu-ray
+  type: Movie
+- title: Harry Potter and the Chamber of Secrets
+  year: 2002
+  format: Blu-ray
+  type: Movie
+- title: Harry Potter and the Prisoner of Azkaban
+  year: 2004
+  format: Blu-ray
+  type: Movie
+- title: Harry Potter and the Goblet of Fire
+  year: 2005
+  format: Blu-ray
+  type: Movie
+- title: Harry Potter and the Order of the Phoenix
+  year: 2007
+  format: Blu-ray
+  type: Movie
+- title: Harry Potter and the Half-Blood Prince
+  year: 2009
+  format: Blu-ray
+  type: Movie
+- title: "Harry Potter and the Deathly Hallows: Part 1"
+  year: 2010
+  format: Blu-ray
+  type: Movie
+- title: "Harry Potter and the Deathly Hallows: Part 2"
+  year: 2011
+  format: Blu-ray
+  type: Movie
+- title: Dredd
+  year: 2012
+  format: 4K
+  type: Movie
+- title: Inception
+  year: 2010
+  format: 4K
+  type: Movie
+- title: The Shawshank Redemption
+  year: 1994
+  format: 4K
+  type: Movie
+- title: Waterworld
+  year: 1995
+  format: 4K
+  type: Movie
+- title: Last Action Hero
+  year: 1993
+  format: 4K
+  type: Movie
+- title: Poltergeist
+  year: 1982
+  format: 4K
+  type: Movie
+- title: The Green Mile
+  year: 1999
+  format: 4K
+  type: Movie
+- title: Encanto
+  year: 2021
+  format: 4K
+  type: Movie
+- title: "E.T. the Extra-Terrestrial"
+  year: 1982
+  format: 4K
+  type: Movie
+- title: Prometheus
+  year: 2012
+  format: 4K
+  type: Movie
+- title: Who Framed Roger Rabbit
+  year: 1988
+  format: 4K
+  type: Movie
+- title: Top Gun
+  year: 1986
+  format: 4K
+  type: Movie
+- title: "Top Gun: Maverick"
+  year: 2022
+  format: 4K
+  type: Movie
+- title: "Mad Max: Fury Road"
+  year: 2015
+  format: 4K
+  type: Movie
+- title: Adams Family Values
+  year: 1993
+  format: 4K
+  type: Movie
+- title: The Prestige
+  year: 2006
+  format: 4K
+  type: Movie
+- title: Dune
+  year: 2021
+  format: 4K
+  type: Movie
+- title: "Blade Runner: The Final Cut"
+  year: 1982
+  format: 4K
+  type: Movie
+- title: "Leon: The Professional"
+  year: 1994
+  format: 4K
+  type: Movie
+- title: The Lost Boys
+  year: 1987
+  format: 4K
+  type: Movie
+- title: Back to the Future
+  year: 1985
+  format: 4K
+  type: Movie
+- title: Back to the Future Part II
+  year: 1989
+  format: 4K
+  type: Movie
+- title: Back to the Future Part III
+  year: 1990
+  format: 4K
+  type: Movie
+- title: Beetlejuice
+  year: 1988
+  format: 4K
+  type: Movie
+- title: Edge of Tomorrow
+  year: 2014
+  format: 4K
+  type: Movie
+- title: Heat
+  year: 1995
+  format: 4K
+  type: Movie
+- title: Jumanji
+  year: 1995
+  format: 4K
+  type: Movie
+- title: Tenet
+  year: 2020
+  format: 4K
+  type: Movie
+- title: "The Lord of the Rings: The Fellowship of the Ring"
+  year: 2001
+  format: 4K
+  type: Movie
+- title: "The Lord of the Rings: The Two Towers"
+  year: 2002
+  format: 4K
+  type: Movie
+- title: "The Lord of the Rings: The Return of the King"
+  year: 2003
+  format: 4K
+  type: Movie
+- title: The Fifth Element
+  year: 1997
+  format: 4K
+  type: Movie
+- title: Interstellar
+  year: 2014
+  format: 4K
+  type: Movie
+- title: "Terminator 2: Judgement Day" 
+  year: 1991
+  format: 4K
+  type: Movie
+- title: The Blues Brothers
+  year: 1980
+  format: 4K
+  type: Movie
+- title: Dunkirk
+  year: 2017
+  format: 4K
+  type: Movie
+- title: Jurassic Park
+  year: 1993
+  format: 4K
+  type: Movie
+- title: Hook
+  year: 1991
+  format: 4K
+  type: Movie
+- title: The Big Lebowski
+  year: 1998
+  format: 4K
+  type: Movie
+- title: The Shining
+  year: 1980
+  format: 4K
+  type: Movie
+- title: Wall-E
+  year: 2008
+  format: 4K
+  type: Movie
+- title: "Terminator: Genesys"
+  year: 2015
+  format: 4K
+  type: Movie
+- title: Terminator Salvation
+  year: 2009
+  format: 4K
+  type: Movie
+- title: Saving Private Ryan
+  year: 1998
+  format: 4K
+  type: Movie
+- title: Apollo 11
+  year: 2019
+  format: 4K
+  type: Movie
+- title: Gremlins
+  year: 1984
+  format: 4K
+  type: Movie
+- title: Independence Day
+  year: 1996
+  format: 4K
+  type: Movie
+- title: National Lampoon's Vacation
+  year: 1983
+  format: 4K
+  type: Movie
+- title: The Matrix
+  year: 1999
+  format: 4K
+  type: Movie
+- title: The Terminator
+  year: 1984
+  format: 4K
+  type: Movie
+- title: Batman Returns
+  year: 1992
+  format: 4K
+  type: Movie
+- title: Highlander
+  year: 1986
+  format: 4K
+  type: Movie
+- title: Ghostbusters
+  year: 1984
+  format: 4K
+  type: Movie
+- title: Rocky
+  year: 1976
+  format: Blu-ray
+  type: Movie
+- title: Rocky II
+  year: 1979
+  format: Blu-rayseason: Special
+  type: Movie
+- title: Rocky III
+  year: 1982
+  format: Blu-ray
+  type: Movie
+- title: Rocky IV
+  year: 1985
+  format: Blu-ray
+  type: Movie
+- title: Rocky V
+  year: 1990
+  format: Blu-ray
+  type: Movie
+- title: Rocky Balboa
+  year: 2006
+  format: Blu-ray
+  type: Movie
+Shows:
+- title: "Cosmos: A Spacetime Odyssey"
+  season: 1
+  year: 2014
+  format: Blu-ray
+  type: Show
+- title: Mad Men
+  season: 2
+  year: 2007
+  format: Blu-ray
+  type: Show
+- title: Chernobyl
+  season: 1
+  year: 2019
+  format: 4K
+  type: Show
+- title: Father Ted
+  season: 1
+  year: 1995
+  format: DVD
+  type: Show
+- title: Father Ted
+  season: 2
+  year: 1996
+  format: DVD
+  type: Show
+- title: Father Ted
+  season: 3
+  year: 1998
+  format: DVD
+  type: Show
+- title: The Royle Family
+  season: 1
+  year: 1998
+  format: DVD
+  type: Show
+- title: The Royle Family
+  season: 2
+  year: 1999
+  format: DVD
+  type: Show
+- title: The Royle Family
+  season: 3
+  year: 2000
+  format: DVD
+  type: Show
+- title: "The Royle Family: The Queen of Sheba"
+  season: Special
+  year: 2006
+  format: DVD
+  type: Show
+- title: "The Royle Family: The New Sofa"
+  season: Special
+  year: 2008
+  format: DVD
+  type: Show
+- title: "The Royle Family: The Golden Egg Cup"
+  season: Special
+  year: 2009
+  format: DVD
+  type: Show
+  year: 1992
+  format: DVD
+  type: Show
+- title: Keeping Up Appearances
+  season: 4
+  year: 1993
+  format: DVD
+  type: Show
+- title: Keeping Up Appearances
+  season: 5
+  year: 1995
+  format: DVD
+  type: Show
+- title: Frasier
+  season: 1
+  year: 1993
+  format: DVD
+  type: Show
+- title: Frasier
+  season: 1
+  year: 1993
+  format: DVD
+  type: Show
+- title: Frasier
+  season: 7
+  year: 1999
   format: DVD
   type: Show
