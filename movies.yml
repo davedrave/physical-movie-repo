@@ -285,5 +285,50 @@ Shows:
 - title: Chernobyl
   season: 1
   year: 2019
-  format: 4k
+  format: 4K
+  type: Show
+- title: Father Ted
+  season: 1
+  year: 1995
+  format: DVD
+  type: Show
+- title: Father Ted
+  season: 2
+  year: 1996
+  format: DVD
+  type: Show
+- title: Father Ted
+  season: 3
+  year: 1998
+  format: DVD
+  type: Show
+- title: The Royle Family
+  season: 1
+  year: 1998
+  format: DVD
+  type: Show
+- title: The Royle Family
+  season: 2
+  year: 1999
+  format: DVD
+  type: Show
+- title: The Royle Family
+  season: 3
+  year: 2000
+  format: DVD
+  type: Show
+- title: "The Royle Family: The Queen of Sheba"
+  season: Special
+  year: 2006
+  format: DVD
+  type: Show
+- title: "The Royle Family: The New Sofa"
+  season: Special
+  year: 2008
+  format: DVD
+  type: Show
+- title: "The Royle Family: The Golden Egg Cup"
+  season: Special
+  year: 2009
+  format: DVD
   type: Show
