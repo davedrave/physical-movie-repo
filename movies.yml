@@ -646,7 +646,8 @@ Shows:
   type: Movie
 - title: Rocky II
   year: 1979
-  format: Blu-rayseason: Special
+  format: Blu-ray
+  season: Special
   type: Movie
 - title: Rocky III
   year: 1982
@@ -744,8 +745,8 @@ Shows:
   format: DVD
   type: Show
 - title: Frasier
-  season: 1
-  year: 1993
+  season: 4
+  year: 1996
   format: DVD
   type: Show
 - title: Frasier
