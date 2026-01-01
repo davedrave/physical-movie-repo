@@ -287,6 +287,26 @@ Movies:
   year: 1984
   format: 4K
   type: Movie
+- title: The Van
+  year: 1996
+  format: DVD
+  type: Movie
+- title: The Snapper
+  year: 1993
+  format: DVD
+  type: Movie
+- title: Demolition Man
+  year: 1993
+  format: Blu-ray
+  type: Movie
+- title: The Other Guys
+  year: 2010
+  format: Blu-ray
+  type: Movie
+- title: Intermission
+  year: 2003
+  format: DVD
+  type: Movie
 Shows:
 - title: "Cosmos: A Spacetime Odyssey"
   season: 1
@@ -295,7 +315,27 @@ Shows:
   type: Show
 - title: Mad Men
   season: 2
-  year: 2007
+  year: 2008
+  format: Blu-ray
+  type: Show
+- title: Mad Men
+  season: 3
+  year: 2009
+  type: Show
+  format: Blu-ray
+- title: Mad Men
+  season: 4
+  year: 2010
+  type: Show
+  format: Blu-ray
+- title: Mad Men
+  season: 5
+  year: 2012
+  format: Blu-ray
+  type: Show
+- title: Mad Men
+  season: 6
+  year: 2013
   format: Blu-ray
   type: Show
 - title: Chernobyl
@@ -386,5 +426,25 @@ Shows:
 - title: Keeping Up Appearances
   season: 5
   year: 1995
+  format: DVD
+  type: Show
+- title: The Pacific
+  season: 1
+  year: 2010
+  format: Blu-ray
+  type: Show
+- title: Black Books
+  season: 1
+  year: 2000
+  format: DVD
+  type: Show
+- title: Black Books
+  season: 1
+  year: 2002
+  format: DVD
+  type: Show
+- title: Black Books
+  season: 1
+  year: 2004
   format: DVD
   type: Show
