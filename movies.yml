@@ -448,3 +448,15 @@ Shows:
   year: 2004
   format: DVD
   type: Show
+- title: The Godfather
+  year: 1972
+  format: 4K
+  type: Movie
+- title: The Godfather Part II
+  year: 1974
+  format: 4K
+  type: Movie
+- title: The Godfather Part III
+  year: 1990
+  format: 4K
+  type: Movie
