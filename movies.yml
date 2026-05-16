@@ -331,6 +331,10 @@ Movies:
   year: 2023
   format: 4K
   type: Movie
+- title: Total Recall
+  year: 1990
+  format: 4K
+  type: Movie
 Shows:
 - title: "Cosmos: A Spacetime Odyssey"
   season: 1
